@@ -1,0 +1,1 @@
+pinga returns "error" instead of "not implmented", when "Sorry, arithmetic coding is not implemented"
